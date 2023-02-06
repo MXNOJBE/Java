@@ -1,0 +1,41 @@
+
+class drivers {
+    public String driverName;
+    public int driverNum;
+    public int driverAge;
+    public String driverNation;
+    public int driverPodiumsCount;
+    public String recentWin;
+    public int driverFastestLapcount;
+    public int driverDebutYear;
+    public String driverCurrentTeam;
+    public int driverRaceStartCount;
+
+}
+
+class teams {
+    public String teamName;
+    public String headQuarters;
+    public String teamprincipalsName;
+    public String brandName;
+    public int championshipswonCount;
+    public int yearsparticioatedCount;
+    public String titlesponsorsName;
+    public String ownersName;
+    public String carmodelName;
+    public String driverName;
+    public String engineusedName;
+}
+
+class circuits {
+    public String circuitName;
+    public int Year;
+    public int firstformula1Year;
+    public String circuitOwners;
+    public int circuitOccupancy;
+    public int circuithigestOccupancy;
+    public int circuitturnCount;
+    public String circuitCountry;
+    public String fastestlapDriver;
+    public String fasetestLapTime;
+}
