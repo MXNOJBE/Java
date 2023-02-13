@@ -3,7 +3,7 @@ public class TableExample {
     JFrame f;    
     TableExample(){    
     f=new JFrame();    
-    String data[][]={ {"101","Amit","670000"},    
+    String data[][]={ {teams},    
                           {"102","Jai","780000"},    
                           {"101","Sachin","700000"}};    
     String column[]={"ID","NAME","SALARY"};         
